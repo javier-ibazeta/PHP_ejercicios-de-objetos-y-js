@@ -1,0 +1,9 @@
+18. Como resultado de una encuesta se recogen los siguientes datos: sexo (H: Hombre, 
+M: Mujer), edad (en años) y altura (en centímetros). Realice un programa para calcular 
+e informar:
+a. El porcentaje de mujeres mayores a 25 años.
+b. El porcentaje de hombres menores de 18 años.
+c. El promedio de edad de las mujeres.
+d. El promedio de altura de los hombres.
+e. La menor edad ingresada.
+f. La mayor altura ingresada

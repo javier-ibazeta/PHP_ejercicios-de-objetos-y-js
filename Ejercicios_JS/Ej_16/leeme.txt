@@ -1,0 +1,4 @@
+16. Se le solicita al usuario que ingrese dos números y un operador (+, -, *, /). Realice 
+un programa para calcular e informar cada operación deseada entre los dos números. 
+Ese proceso se puede repetir mientras lo desee el usuario. Todos los valores deben ser 
+validados.

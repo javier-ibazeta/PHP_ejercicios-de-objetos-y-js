@@ -1,0 +1,5 @@
+Se le solicita al usuario que ingrese una cantidad desconocida de números. Realice 
+un programa para calcular e informar:
+a. La sumatoria de los valores ingresados.
+b. El menor valor ingresado.
+c. El mayor valor ingresado.

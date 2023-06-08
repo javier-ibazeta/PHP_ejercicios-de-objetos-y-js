@@ -1,0 +1,2 @@
+14. Se le solicita al usuario que ingrese 3 números. Realice un programa para informar 
+si el número es múltiplo de 3, múltiplo 5, múltiplo de ambos o múltiplo de ninguno.
